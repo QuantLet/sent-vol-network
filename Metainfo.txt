@@ -1,0 +1,17 @@
+Name of Quantlet: Sent-vol Networks
+
+Published in: under review
+
+Description: Performs a quantitative analysis of the impact of investors' sentiment on the volatility networks in financial markets
+
+Keywords: investors' sentiment, volatility network, network regression
+
+Author: Dan Gabriel Anghel & Petre Caraiani
+
+See also: 'optional: listing related Quantlets or Github code'
+
+Submitted:  24th January 2024, Petre Caraiani
+
+Input: 'optional'
+
+Output:  'optional'
