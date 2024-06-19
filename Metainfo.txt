@@ -6,7 +6,7 @@ Description: Performs a quantitative analysis of the impact of investors' sentim
 
 Keywords: investors' sentiment, volatility network, network regression
 
-Author: Dan Gabriel Anghel & Petre Caraiani
+Author: Dan Anghel and Petre Caraiani
 
-Submitted:  '19.06.2024'
+Submitted:  Wed, June 19 2024 by Petre Caraiani
 
