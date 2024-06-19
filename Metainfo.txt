@@ -1,4 +1,4 @@
-Name of Quantlet: Sent-vol Networks
+Name of Quantlet: sent-vol-network
 
 Published in: under review
 
