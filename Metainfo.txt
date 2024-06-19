@@ -8,10 +8,5 @@ Keywords: investors' sentiment, volatility network, network regression
 
 Author: Dan Gabriel Anghel & Petre Caraiani
 
-See also: 'optional: listing related Quantlets or Github code'
+Submitted:  '19.06.2024'
 
-Submitted:  24th January 2024, Petre Caraiani
-
-Input: 'optional'
-
-Output:  'optional'
